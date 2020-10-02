@@ -1,6 +1,15 @@
 body {
     margin: 1em;
 }
+img{
+margin: 1em;
+height: 50;
+border-radius: 8px;
+border: 1px solid #ddd;
+  
+  padding: 5px;
+  width: 150px;
+}
 .card {
     margin-bottom: 1em;
 }
