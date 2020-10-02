@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.Bl1nkc0de.Desa Theme
+Version: 1.0beta
+Section: Theme
+Maintainer: Marve Galla <abner.dawan@gmail.com>
+Depends: firmware (<13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample Desa Theme. Firmware should be lower than 13.0
+Name: Desa Theme
+Author:  Marve Galla <abner.dawan@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
