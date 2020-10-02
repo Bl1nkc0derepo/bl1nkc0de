@@ -24,21 +24,22 @@ You can change `repo` to anything you want, like `cydia` for example. So your re
 
 Edit `Release` file. Modify the items pointed by `<--`
 
-    Origin: Reposi3  <--
-    Label: Reposi3   <--
-    Suite: stable
-    Version: 1.0
-    Codename: ios
-    Architectures: iphoneos-arm
-    Components: main
-    Description: Reposi3 - a cydia repo template  <--
+    Origin: Bl1nkc0de Repo
+Label: Bl1nkc0de Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Bl1nkc0de Repo Description
+
 
 **Branding**
 
 
 
 Edit `index.html`
-* Change the page title in the `<title>Reposi3</title>` tag
+* Change the page title in the `<title>Bl1nkc0de</title>` tag
 * See lines 20 and 21.
 * Change line 20 into your own **brand** and line 21 to have your own URL.
 * Line2 30-51 contains the list of featured packages. You can edit those or remove them totally.
@@ -54,12 +55,12 @@ This data are the links that appear at the bottom of every depication. The data 
     <footerlinks>
         <link>
             <name>Follow me on Twitter</name>
-            <url>https://twitter.com/reposi3</url>
+            <url>https://twitter.com/cansenumbawan</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
             <name>I want this depiction template</name>
-            <url>https://github.com/supermamon/Reposi3</url>
+            <url>https://github.com/bl1nkc0derepo/bl1nkc0de</url>
             <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
     </footerlinks>
@@ -83,7 +84,7 @@ Rename the duplicate with the same name as your package name.
 There are 2 files inside the folder - `info.xml` and `changelog.xml`.
 Update the 2 files with information regading your package.
 The tags are pretty much self-explanatory.
-Contact [@reposi3](https://twitter.com/reposi3) for questions.
+Contact [@reposi3](https://twitter.com/cansenumbawan) for questions.
 
 `info.xml`.
 ```xml
